@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "817418029759",
+    "firebase_url": "https://rn-firebase-issue.firebaseio.com",
+    "project_id": "rn-firebase-issue",
+    "storage_bucket": "rn-firebase-issue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817418029759:android:d3043d5dace71a4b",
+        "android_client_info": {
+          "package_name": "com.rnfirebaseissue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817418029759-lc6lret1oqru584b2tsr09s08otn5p63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4t6rZPv8WgOZJlVPyx3MQQXWuzadglr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
